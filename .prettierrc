@@ -1,0 +1,19 @@
+{
+  "printWidth": 200,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "bracesSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "always",
+  "space-before-function-paren": 2,
+  "spaceBeforeParen": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "--space-before-function-paren": true,
+  "[vue, javascript]": {
+    "editor.defaultFormatter": "remimarsal.prettier"
+  }
+}
